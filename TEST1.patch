@@ -1,0 +1,13 @@
+Index: src/testA.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/testA.java	(date 1633663682336)
++++ src/testA.java	(date 1633663682336)
+@@ -0,0 +1,5 @@
++public class testA {
++    public static void main(String[] args) {
++        System.out.println('testaa');
++    }
++}
